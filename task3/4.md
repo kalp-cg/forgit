@@ -1,0 +1,15 @@
+# Part-4
+## Task 7: Understanding Branching 
+
+### 1. To list all branches
+```
+    git branch
+```
+### 2. To create a new branch
+```
+    git branch new_branch
+```
+### 3. To switch to this branch
+```
+    git checkout new_branch
+```
